@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictactoe-manu": {
+      "hosting": {
+        "tictactoe": [
+          "tictactoe-manu"
+        ]
+      }
+    }
+  }
+}
